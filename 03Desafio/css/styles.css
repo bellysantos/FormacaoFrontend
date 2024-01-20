@@ -1,0 +1,12 @@
+.texto-regras {
+    color: #F19953;
+    border: none;
+}
+
+#box-model {
+    margin: 50px 25px;
+    padding: 30px 15px;
+    border: 10px double #2660A4;
+    outline: 15px solid #ED254E;
+    background-color: #EDF7F6;
+}
